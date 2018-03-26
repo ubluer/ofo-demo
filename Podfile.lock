@@ -1,0 +1,31 @@
+PODS:
+  - AMap3DMap (6.0.0):
+    - AMapFoundation (~> 1.4)
+  - AMapFoundation (1.4.3)
+  - AMapLocation (2.6.0):
+    - AMapFoundation (~> 1.4)
+  - AMapNavi (6.0.0):
+    - AMap3DMap (>= 6.0.0)
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (5.7.0):
+    - AMapFoundation (~> 1.4)
+  - SWRevealViewController (2.3.0)
+
+DEPENDENCIES:
+  - AMap3DMap
+  - AMapLocation
+  - AMapNavi
+  - AMapSearch
+  - SWRevealViewController
+
+SPEC CHECKSUMS:
+  AMap3DMap: ee8172d81560e9f6548d6e6010444df7e3d00fc7
+  AMapFoundation: 973682cfe60b92efd73a8ef8f1144fa0fa8e1296
+  AMapLocation: 55116a2c8956eab7550cbb56e989aa5cdcc424e3
+  AMapNavi: 4d75c4ff83abd50959530e95c6da439e5b9fc06a
+  AMapSearch: 314f75e9ce282b53dbf66455efa416c39f12b5b1
+  SWRevealViewController: 6d3fd97f70112fd7cef9de14df4260eacce4c63a
+
+PODFILE CHECKSUM: 9d96853d4a579d1b004b874857daeaca88ab637b
+
+COCOAPODS: 1.4.0
